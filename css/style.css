@@ -2,6 +2,13 @@
 
 /*regola di reset */
 
-* {
+ {
     color: rgb(255, 0, 0);
 }
+
+/*creo la classe di colore nero*/
+.black{
+    color: rgb(0, 0, 0);
+}
+
+
